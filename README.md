@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bookeh
 - 👀 I’m interested in all kinds of automation 
-- 🌱 I’m currently learning Java basics, Java swing
+- 🌱 I’m currently learning unreal engine basics
 - 💞️ I’m looking to collaborate on nothing yet...
 - 📫 How to reach me: pm
 
